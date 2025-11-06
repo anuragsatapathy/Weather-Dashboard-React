@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weather-Dashboard-React/static/css/main.e35dc6f7.css",
+    "main.js": "/Weather-Dashboard-React/static/js/main.c10cedc6.js",
+    "index.html": "/Weather-Dashboard-React/index.html",
+    "main.e35dc6f7.css.map": "/Weather-Dashboard-React/static/css/main.e35dc6f7.css.map",
+    "main.c10cedc6.js.map": "/Weather-Dashboard-React/static/js/main.c10cedc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35dc6f7.css",
+    "static/js/main.c10cedc6.js"
+  ]
+}
